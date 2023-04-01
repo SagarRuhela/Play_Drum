@@ -1,6 +1,6 @@
 ## Docker
 
-To build a docker image for the todo-list-app and run it inside a container execute
+To build a docker image
 
 ```sh
 docker build -t <Image_name> .
